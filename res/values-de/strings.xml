@@ -55,12 +55,12 @@
     <string name="yes">Ja</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%d</xliff:g> – <xliff:g id="name">%s</xliff:g></string>
     <string name="emergency_call">Notruf</string>
-    <string name="setup_services">LineageOS-Funktionen</string>
-    <string name="services_explanation" product="tablet">Diese Dienste werden verwendet, um die Funktionen deines Tablets zu erweitern. Deine Daten werden in Übereinstimmung mit der <xliff:g id="name" example="Datenschutzerklärung">%s</xliff:g> von LineageOS verwendet.</string>
-    <string name="services_explanation" product="default">Diese Dienste werden verwendet, um die Funktionen deines Telefons zu erweitern. Deine Daten werden in Übereinstimmung mit der <xliff:g id="name" example="Datenschutzerklärung">%s</xliff:g> von LineageOS verwendet.</string>
+    <string name="setup_services">KiroOS-Funktionen</string>
+    <string name="services_explanation" product="tablet">Diese Dienste werden verwendet, um die Funktionen deines Tablets zu erweitern. Deine Daten werden in Übereinstimmung mit der <xliff:g id="name" example="Datenschutzerklärung">%s</xliff:g> von KiroOS verwendet.</string>
+    <string name="services_explanation" product="default">Diese Dienste werden verwendet, um die Funktionen deines Telefons zu erweitern. Deine Daten werden in Übereinstimmung mit der <xliff:g id="name" example="Datenschutzerklärung">%s</xliff:g> von KiroOS verwendet.</string>
     <string name="services_privacy_policy">Datenschutzerklärung</string>
-    <string name="services_help_improve_cm">Hilf <xliff:g id="name" example="CyanogenMod">%s</xliff:g> zu verbessern</string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>, indem du automatisch Diagnose-und Nutzungsdaten an LineageOS sendest. Diese Informationen können nicht dazu verwendet werden, um dich zu identifizieren. Vielmehr helfen sie unserem Team bei der Arbeit an Dingen wie der Akkulaufzeit, der App-Leistung und <xliff:g id="name" example="LineageOS">%2$s</xliff:g>-Funktionen.</string>
+    <string name="services_help_improve_cm">Hilf <xliff:g id="name" example="KiroOS">%s</xliff:g> zu verbessern</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve KiroOS">%1$s</xliff:g>, indem du automatisch Diagnose-und Nutzungsdaten an KiroOS sendest. Diese Informationen können nicht dazu verwendet werden, um dich zu identifizieren. Vielmehr helfen sie unserem Team bei der Arbeit an Dingen wie der Akkulaufzeit, der App-Leistung und <xliff:g id="name" example="KiroOS">%2$s</xliff:g>-Funktionen.</string>
     <string name="services_os_nav_keys_label"><b>Bildschirm-Navigationstasten</b> statt Hardwaretasten verwenden.</string>
     <string name="services_os_privacy_guard"><b>Aktiviere den Datenschutz</b>, um deine persönlichen Daten wie Kontakte, Nachrichten oder Anrufe nicht für neu installierte Anwendungen verfügbar zu machen</string>
     <string name="setup_unlock">Entsperren</string>

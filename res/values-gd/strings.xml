@@ -55,12 +55,12 @@
     <string name="yes">Tha</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%d</xliff:g> - <xliff:g id="name">%s</xliff:g></string>
     <string name="emergency_call">Gairm-èiginn</string>
-    <string name="setup_services">Gleusan LineageOS</string>
-    <string name="services_explanation" product="tablet">Leudaichidh na seirbheisean seo comasan na tablaid agad. Thèid an dàta a chleachdadh a-rèir <xliff:g id="name" example="Privacy Policy">%s</xliff:g> LineageOS.</string>
-    <string name="services_explanation" product="default">Leudaichidh na seirbheisean seo comasan an fhòn agad. Thèid an dàta a chleachdadh a-rèir <xliff:g id="name" example="Privacy Policy">%s</xliff:g> LineageOS.</string>
+    <string name="setup_services">Gleusan KiroOS</string>
+    <string name="services_explanation" product="tablet">Leudaichidh na seirbheisean seo comasan na tablaid agad. Thèid an dàta a chleachdadh a-rèir <xliff:g id="name" example="Privacy Policy">%s</xliff:g> KiroOS.</string>
+    <string name="services_explanation" product="default">Leudaichidh na seirbheisean seo comasan an fhòn agad. Thèid an dàta a chleachdadh a-rèir <xliff:g id="name" example="Privacy Policy">%s</xliff:g> KiroOS.</string>
     <string name="services_privacy_policy">Poileasaidh prìobhaideachd</string>
-    <string name="services_help_improve_cm">Cuidich gus piseach a thoirt air <xliff:g id="name" example="CyanogenMod">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve CyanogenMod">%1$s</xliff:g> is tu a’ cur dàta na diagnosachd ’s a’ chleachdaidh gu LineageOS gu fèin-obrachail. Cha ghabh an dàta sin a chleachdadh airson d’ aithneachadh agus bheir e cuideachadh dha na sgiobaidhean a bhios ag obair air rudan mar beatha a’ bhataraidh, dèanadas nan aplacaidean agus gleusan <xliff:g id="name" example="CyanogenMod">%2$s</xliff:g> ùra.</string>
+    <string name="services_help_improve_cm">Cuidich gus piseach a thoirt air <xliff:g id="name" example="KiroOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve KiroOS">%1$s</xliff:g> is tu a’ cur dàta na diagnosachd ’s a’ chleachdaidh gu KiroOS gu fèin-obrachail. Cha ghabh an dàta sin a chleachdadh airson d’ aithneachadh agus bheir e cuideachadh dha na sgiobaidhean a bhios ag obair air rudan mar beatha a’ bhataraidh, dèanadas nan aplacaidean agus gleusan <xliff:g id="name" example="KiroOS">%2$s</xliff:g> ùra.</string>
     <string name="services_os_nav_keys_label"><b>Cleachd iuchraichean seòladaireachd air an sgrìn</b> seach iuchraichean bathair-chruaidh.</string>
     <string name="services_os_privacy_guard"><b>Cuir an comas freiceadan na prìobhaideachd</b> ach nach fhaigh aplacaidean air an ùr-stàladh grèim air an dàta phearsanta agad mar luchd-aithne, teachdaireachdan no logaichean nan gairmean</string>
     <string name="setup_unlock">Thoir a’ ghlas dheth</string>

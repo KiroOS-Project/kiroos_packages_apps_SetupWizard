@@ -56,12 +56,12 @@
     <string name="yes">Bəli</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%d</xliff:g> - <xliff:g id="name">%s</xliff:g></string>
     <string name="emergency_call">Fövqəladə vəziyyət zəngləri</string>
-    <string name="setup_services">LineageOS özəllikləri</string>
-    <string name="services_explanation" product="tablet">Bu xidmətlər planşetinizin qabiliyyətlərini artırar. Verilənlər LineageOS<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
-    <string name="services_explanation" product="default">Bu xidmətlər telefonunuzun qabiliyyətlərini artırar. Verilənlər LineageOS<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
+    <string name="setup_services">KiroOS özəllikləri</string>
+    <string name="services_explanation" product="tablet">Bu xidmətlər planşetinizin qabiliyyətlərini artırar. Verilənlər KiroOS<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
+    <string name="services_explanation" product="default">Bu xidmətlər telefonunuzun qabiliyyətlərini artırar. Verilənlər KiroOS<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
     <string name="services_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="CyanogenMod">%s</xliff:g> təkmilləşməsinə kömək edin</string>
-    <string name="services_metrics_label">Diaqnostika və istifadə verilənlərini LineageOS-a göndərərək <xliff:g id="name" example="Help improve CyanogenMod">%1$s</xliff:g>. Bu məlumatlar kimliyinizdən istifadə məqsədilə götürülmür, ancaq batereya ömrü, tətbiq performansı və yeni <xliff:g id="name" example="CyanogenMod">%2$s</xliff:g> özəllikləri kimi mövzularda komandamızın işlərində istifadə olunur.</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="KiroOS">%s</xliff:g> təkmilləşməsinə kömək edin</string>
+    <string name="services_metrics_label">Diaqnostika və istifadə verilənlərini KiroOS-a göndərərək <xliff:g id="name" example="Help improve KiroOS">%1$s</xliff:g>. Bu məlumatlar kimliyinizdən istifadə məqsədilə götürülmür, ancaq batereya ömrü, tətbiq performansı və yeni <xliff:g id="name" example="KiroOS">%2$s</xliff:g> özəllikləri kimi mövzularda komandamızın işlərində istifadə olunur.</string>
     <string name="services_os_nav_keys_label"><b>Avadanlıq düymələri əvəzinə ekran üstü hərəkət düymələrindən istifadə edin.</b></string>
     <string name="services_os_privacy_guard">Şəxsləriniz, mesajlarınız və zəng jurnalınız kimi şəxsi verilənlərinizin, yeni quraşdırılmış tətbiqlər üçün əlçatan olmaması üçün <b>Gizlilik qorumasını fəallaşdır</b></string>
     <string name="setup_unlock">Kilidi aç</string>

@@ -134,6 +134,8 @@ public class LineageSettingsActivity extends BaseSetupWizardActivity {
         TextView metrics = (TextView) findViewById(R.id.enable_metrics_summary);
         metrics.setText(metricsSpan);
         mMetrics = (CheckBox) findViewById(R.id.enable_metrics_checkbox);
+        // KiroOS: no statistics collection (the stats service reports to LineageOS servers)
+        mMetricsRow.setVisibility(View.GONE);
 
         mNavKeysRow = findViewById(R.id.nav_keys);
         mNavKeysRow.setOnClickListener(mNavKeysClickListener);
@@ -200,9 +202,7 @@ public class LineageSettingsActivity extends BaseSetupWizardActivity {
 
     private void updateMetricsOption() {
         final Bundle myPageBundle = mSetupWizardApp.getSettingsBundle();
-        boolean metricsChecked =
-                !myPageBundle.containsKey(KEY_SEND_METRICS) || myPageBundle
-                        .getBoolean(KEY_SEND_METRICS);
+        boolean metricsChecked = false;
         mMetrics.setChecked(metricsChecked);
         myPageBundle.putBoolean(KEY_SEND_METRICS, metricsChecked);
     }
